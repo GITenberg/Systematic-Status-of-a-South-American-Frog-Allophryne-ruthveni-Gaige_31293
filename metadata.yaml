@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35129'
     url: http://www.gutenberg.org/2009/agents/35129
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31293#Systematic-Status-of-a-South-American-Frog-Allophryne-ruthveni-Gaige
 gutenberg_bookshelf:
 - Animals-Wild-Reptiles and Amphibians
 - Animal
